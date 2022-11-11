@@ -1,4 +1,4 @@
-# Battle #1
+# Battle #1    (Pilot Battle)
 
 ## Push Button{3}
 
