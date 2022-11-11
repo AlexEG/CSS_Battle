@@ -1,4 +1,4 @@
-# Battle #1
+# Battle #1    (Pilot Battle)
 
 ## Carrom {2}
 
