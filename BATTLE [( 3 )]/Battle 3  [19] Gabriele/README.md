@@ -1,3 +1,3 @@
-# Battle #3
+# Battle #3    (Cursor)
 
 ## {0}
