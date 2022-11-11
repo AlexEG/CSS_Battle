@@ -1,3 +1,14 @@
 # CSS_Battle
-## BATTLE #1
-![Alt text](Battle%201%20%20%20%5B1%5D%20Simple%20Square/images/Simple%20Square.PNG)![Alt text](Battle%201%20%20%20%5B2%5D%20Carrom/images/Carrom.PNG)![Alt text](Battle%201%20%20%20%5B3%5D%20Push%20button/images/Push%20Button.PNG)![Alt text](Battle%201%20%20%20%5B4%5D%20ups%20n%20downs/images/ups%20n%20downs.PNG)![Alt text](Battle%201%20%20%20%5B5%5D%20Acid%20Rain/Acid%20Rain.PNG)![Alt text](Battle%201%20%20%20%5B6%5D%20Missing%20Slice/images/Missing%20Slice.PNG)![Alt text](Battle%201%20%20%20%5B7%5D%20Leafy%20Trail/images/Leafy%20Trail.PNG)![Alt text](Battle%201%20%20%20%5B8%5D%20Forking%20Crazy/images/Forking%20Crazy.PNG)![Alt text](Battle%201%20%20%20%5B9%5D%20Tesseract/images/Tesseract.PNG)![Alt text](Battle%201%20%20%5B10%5D%20Cloaked%20Spirits/images/Cloaked%20Spirits.PNG)![Alt text](Battle%201%20%20%5B11%5D%20Eye%20of%20Sauron/images/Eye%20of%20Sauron.PNG)![Alt text](Battle%201%20%20%5B12%5D%20Wiggly%20Moustache/images/Wiggly%20Moustache.PNG)
+## Battle #1    (Pilot Battle)
+![Alt text](Battle%201%20%20%20%5B1%5D%20Simple%20Square/images/Simple%20Square.PNG)
+![Alt text](Battle%201%20%20%20%5B2%5D%20Carrom/images/Carrom.PNG)
+![Alt text](Battle%201%20%20%20%5B3%5D%20Push%20button/images/Push%20Button.PNG)
+![Alt text](Battle%201%20%20%20%5B4%5D%20ups%20n%20downs/images/ups%20n%20downs.PNG)
+![Alt text](Battle%201%20%20%20%5B5%5D%20Acid%20Rain/Acid%20Rain.PNG)
+![Alt text](Battle%201%20%20%20%5B6%5D%20Missing%20Slice/images/Missing%20Slice.PNG)
+![Alt text](Battle%201%20%20%20%5B7%5D%20Leafy%20Trail/images/Leafy%20Trail.PNG)
+![Alt text](Battle%201%20%20%20%5B8%5D%20Forking%20Crazy/images/Forking%20Crazy.PNG)
+![Alt text](Battle%201%20%20%20%5B9%5D%20Tesseract/images/Tesseract.PNG)
+![Alt text](Battle%201%20%20%5B10%5D%20Cloaked%20Spirits/images/Cloaked%20Spirits.PNG)
+![Alt text](Battle%201%20%20%5B11%5D%20Eye%20of%20Sauron/images/Eye%20of%20Sauron.PNG)
+![Alt text](Battle%201%20%20%5B12%5D%20Wiggly%20Moustache/images/Wiggly%20Moustache.PNG)
