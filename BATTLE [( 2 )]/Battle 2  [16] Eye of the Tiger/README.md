@@ -1,4 +1,4 @@
-# Battle #2
+## Battle #2    (Visibility)
 
 ## Eye of the Tiger {16}
 
