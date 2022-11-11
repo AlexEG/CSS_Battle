@@ -1,3 +1,4 @@
 # Battle #2
 
-## {0}
+## Fidget Spinner {17}
+![Alt text](images/Fidget%20Spinner.PNG)
