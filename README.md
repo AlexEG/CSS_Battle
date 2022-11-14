@@ -1,4 +1,4 @@
-# [cssbattle.dev](https://cssbattle.dev/)
+# [CSSbattle.dev](https://cssbattle.dev/)
 
 [Battle #1](BATTLE%20%5B(%201%20)%5D/README.md)
 
