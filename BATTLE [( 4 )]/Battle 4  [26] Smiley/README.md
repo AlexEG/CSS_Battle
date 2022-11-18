@@ -1,3 +1,5 @@
 # Battle #3 
 
-## {0}
+## Smiley {26}
+
+![Alt text](images/Smiley.png)
