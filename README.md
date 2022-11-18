@@ -5,3 +5,5 @@
 [Battle #2](BATTLE%20%5B(%202%20)%5D/README.md)
 
 [Battle #3](BATTLE%20%5B(%203%20)%5D/README.md)
+
+[Battle #4](BATTLE%20%5B(%204%20)%5D/README.md)
