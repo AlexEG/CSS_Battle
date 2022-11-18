@@ -1,3 +1,4 @@
 # Battle #3 
 
-## {0}
+## Switches  {24}
+![Alt text](images/Switches.png)
