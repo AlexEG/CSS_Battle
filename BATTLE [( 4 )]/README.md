@@ -9,3 +9,4 @@
 ![Alt text](Battle%204%20%20%5B24%5D%20Switches/images/Switches.png)
 ![Alt text](Battle%204%20%20%5B25%5D%20Blossom/images/Blossom.png)
 ![Alt text](Battle%204%20%20%5B26%5D%20Smiley/images/Smiley.png)
+![Alt text](Battle%204%20%20%5B27%5D%20Lock%20UP/images/Lock%20Up.png)
