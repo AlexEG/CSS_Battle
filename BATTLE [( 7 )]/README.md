@@ -1,9 +1,7 @@
 # CSS_Battle
 
-## Battle #7    (Conic)
+## Battle #7    (Backface)
 
 
 
-![Alt text](Battle%206%20%20%5B31%5D%20Equals/images/Equals.png)
-
-![Alt text](Battle%206%20%20%5B32%5D%20Band-aid/images/Band-aid.png)
+![Alt text](../../../../../../../C:/Users/ALEX.eg/Documents/GitHub/CSS_Battle/BATTLE%20%5B(%207%20)%5D/Battle%207%20%20%5B33%5D%20Birdie/images/Birdie.png)
