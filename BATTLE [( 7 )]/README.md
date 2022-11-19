@@ -10,4 +10,4 @@
 ![Alt text](Battle%207%20%20%5B36%5D%20Interleaved/images/Interleaved.png)
 
 
-[Go Back](CSS_Battle/README.md)
+[Go Back](../README.md)
