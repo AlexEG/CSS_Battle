@@ -1,3 +1,4 @@
-# Battle #3 
+# Battle #7 
 
-## {0}
+## Interleaved  {36}
+![Alt text](images/Interleaved.png)
