@@ -12,5 +12,6 @@
 ![Alt text](Battle%207%20%20%5B38%5D%20Not%20Simply%20Square/images/Not%20Simply%20Square.png)
 ![Alt text](Battle%207%20%20%5B39%5D%20Sunset/images/Sunset.png)
 ![Alt text](Battle%207%20%20%5B40%5D%20Letter%20B/images/Letter%20B.png)
+![Alt text](Battle%207%20%20%5B41%5D%20Fox%20Head/images/Fox%20Head.png)
 
 [Go Back](../README.md)
