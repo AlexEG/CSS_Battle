@@ -1,3 +1,5 @@
-# Battle #3 
+# Battle #7
 
-## {0}
+## Fox Head  { 41 }
+
+![Alt text](images/Fox%20Head.png)
