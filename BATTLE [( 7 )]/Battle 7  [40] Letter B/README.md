@@ -1,3 +1,4 @@
-# Battle #3 
+# Battle #7
 
-## {0}
+## Letter B  {40}
+![Alt text](images/Letter%20B.png)
