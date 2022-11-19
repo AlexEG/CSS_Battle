@@ -1,7 +1,7 @@
 # CSS_Battle
 
-## Battle #5    (Inline)
+## Battle #5    (Conic)
 
 
-![Alt text](Battle%205%20%20%5B29%5D%20Suffocate/images/Suffocate.png)
-![Alt text](Battle%205%20%20%5B30%5D%20Horizon/images/Horizon.png)
+
+![Alt text](Battle%206%20%20%5B31%5D%20Equals/images/Equals.png)
