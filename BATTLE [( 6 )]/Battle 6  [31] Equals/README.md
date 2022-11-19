@@ -1,3 +1,5 @@
 # Battle #3 
 
-## {0}
+## Equals  {31}
+
+![Alt text](images/Equals.png)
