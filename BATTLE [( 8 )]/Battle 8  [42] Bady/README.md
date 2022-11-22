@@ -1,3 +1,4 @@
 # Battle #3 
 
-## {0}
+## Bady  { 42 }
+![Alt text](images/Bady.png)
