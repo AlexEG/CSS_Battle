@@ -13,3 +13,5 @@
 [Battle #6](BATTLE%20%5B(%206%20)%5D/README.md)
 
 [Battle #7](BATTLE%20%5B(%207%20)%5D/README.md)
+
+[Battle #8](BATTLE%20%5B(%208%20)%5D/README.md)
