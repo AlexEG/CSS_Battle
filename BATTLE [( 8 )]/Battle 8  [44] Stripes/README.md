@@ -1,3 +1,4 @@
 # Battle #8 
 
-## {0}
+## Stripes  { 44 }
+![Alt text](images/Stripes.png)
