@@ -1,3 +1,4 @@
-# Battle # 00
+# Battle # 10
 
-## {0}
+## Corona Virus { 47 }
+![Alt text](images/Corona%20Virus.png)
