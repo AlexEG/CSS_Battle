@@ -4,5 +4,6 @@
 
 ![Alt text](Battle%2010%20%20%5B47%5D%20Corona%20Virus/images/Corona%20Virus.png)
 ![Alt text](Battle%2010%20%20%5B48%5D%20Wash%20Your%20Hands/images/Wash%20Your%20Hands.png)
+![Alt text](Battle%2010%20%20%5B79%5D%20Stay%20at%20Home/images/Stay%20at%20Home.png)
 
 [Go Back](../README.md)
