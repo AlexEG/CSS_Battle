@@ -17,3 +17,5 @@
 [Battle #8](BATTLE%20%5B(%208%20)%5D/README.md)
 
 [Battle #9](BATTLE%20%5B(%209%20)%5D/Battle%209%20%20%5B45%5D%20Magical%20Tree/README.md)
+
+[Battle #10](BATTLE%20%5B(%2010%20)%5D/README.md)
