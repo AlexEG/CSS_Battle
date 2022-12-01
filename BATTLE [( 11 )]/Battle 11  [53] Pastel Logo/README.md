@@ -1,3 +1,4 @@
-# Battle # 00
+# Battle # 11
 
-## {0}
+## Pastel%20Logo  {53}
+![Alt text](images/Pastel%20Logo.png)
