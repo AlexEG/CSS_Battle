@@ -1,0 +1,17 @@
+div {
+  width: 80px;
+  height: 80px;
+  background: #f09462;
+  border-radius: 150px 0 0 0;
+}
+.one {
+  background: #f5d6b4;
+}
+body {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  margin: 0;
+  padding: 10;
+  background: #5c434c;
+}

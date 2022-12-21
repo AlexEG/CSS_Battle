@@ -1,0 +1,30 @@
+div {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+}
+
+.c {
+  background: #f3ac3c;
+  right: 75px;
+  top: 75;
+  border-radius: 100px 0px 100px 0px;
+}
+
+.b {
+  background: #998235;
+  right: 125px;
+  top: 75;
+  border-radius: 100px 0px 100px 0px;
+}
+
+.a {
+  background: #1a4341;
+  right: 175px;
+  top: 75;
+  border-radius: 100px 0px 100px 0px;
+}
+
+body {
+  background: #0b2429;
+}

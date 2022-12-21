@@ -1,0 +1,40 @@
+div {
+  position: absolute;
+}
+div:nth-of-type(1) {
+  width: 100px;
+  height: 100px;
+  background: #f7ec7d;
+  border-radius: 50px;
+  top: 100;
+  right: 80;
+}
+div:nth-of-type(2) {
+  width: 100px;
+  height: 100px;
+  background: #f7ec7d;
+  border-radius: 50px;
+  top: 100;
+  left: 80;
+}
+div:nth-of-type(3) {
+  width: 100px;
+  height: 150px;
+  background: #aa445f;
+  border-radius: 50px;
+  top: 50;
+  left: 80;
+  z-index: -1;
+}
+div:nth-of-type(4) {
+  width: 100px;
+  height: 150px;
+  background: #e38f66;
+  border-radius: 50px;
+  bottom: 50;
+  right: 80;
+  z-index: -1;
+}
+body {
+  background: #62306d;
+}

@@ -1,0 +1,24 @@
+div {
+  position: absolute;
+  background: #aa445f;
+  border-radius: 150px;
+}
+div:nth-of-type(1) {
+  width: 200px;
+  height: 200px;
+  top: 50px;
+  right: 100px;
+}
+div:nth-of-type(2) {
+  width: 80px;
+  height: 80px;
+  top: 80px;
+  right: 130px;
+  border-style: solid;
+  border-width: 30px;
+  border-color: #f7ec7d transparent;
+  transform: rotate(45deg);
+}
+body {
+  background: #e38f66;
+}

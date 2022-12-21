@@ -1,0 +1,46 @@
+.a,
+.c {
+  background: #EEB850;
+}
+
+.box {
+  width: 150px;
+  height: 100px;
+  background: #243D83;
+  margin-bottom: -100;
+  border-radius: 0 0 10px 10px;
+  position: relative;
+}
+
+.a {
+  width: 50px;
+  height: 50px;
+  margin: 50;
+  border-radius: 10px 10px 0 0;
+}
+
+.b {
+  width: 0;
+  height: 0;
+  border: solid 100px;
+  border-color: transparent transparent #243D83 transparent;
+  position: absolute;
+  top: -200;
+  left: -25;
+  z-index: -10;
+}
+
+.c {
+  width: 100px;
+  height: 10px;
+  margin-top: -155;
+  margin-left: 25;
+  border-radius: 10px;
+}
+
+body {
+  background: #6592CF;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}

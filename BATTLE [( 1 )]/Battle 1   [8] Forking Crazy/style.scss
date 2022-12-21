@@ -1,0 +1,78 @@
+div {
+  position: absolute;
+}
+
+.one,
+.two {
+  width: 20px;
+  height: 120px;
+}
+
+.top {
+  top: 50px;
+}
+
+.top2 {
+  top: 40px;
+}
+
+.one {
+  background: #060f55;
+}
+
+.two {
+  background: #6592cf;
+}
+
+.main {
+  width: 140px;
+  height: 100px;
+  background: #060f55;
+  bottom: 50px;
+  right: 130px;
+  border-radius: 0px 0px 70px 70px;
+}
+
+.a {
+  bottom: 0;
+  right: 190px;
+}
+
+.b {
+  right: 250px;
+  border-radius: 50px;
+}
+
+.c {
+  right: 210px;
+  border-radius: 50px;
+}
+
+.d {
+  right: 170px;
+  border-radius: 50px;
+}
+
+.e {
+  right: 130px;
+  border-radius: 50px;
+}
+
+.f {
+  right: 150px;
+  border-radius: 50px;
+}
+
+.g {
+  right: 190px;
+  border-radius: 50px;
+}
+
+.h {
+  right: 230px;
+  border-radius: 50px;
+}
+
+body {
+  background: #6592cf;
+}

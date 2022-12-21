@@ -1,0 +1,29 @@
+div {
+  width: 400px;
+}
+
+div:nth-of-type(1) {
+  height: 50px;
+  background: #F7EC7D;
+}
+
+div:nth-of-type(2) {
+  height: 50px;
+  background: #E38F66;
+}
+
+div:nth-of-type(3) {
+  height: 100px;
+  background: #AA445F;
+}
+
+div:nth-of-type(4) {
+  height: 100px;
+  background: #62306D;
+}
+
+body {
+
+  margin: 0;
+
+}

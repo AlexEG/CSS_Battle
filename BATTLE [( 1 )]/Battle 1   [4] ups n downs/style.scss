@@ -1,0 +1,38 @@
+.one {
+  width: 100px;
+  height: 200px;
+  background: #f7ec7d;
+  border-radius: 50px;
+  display: inline-block;
+}
+
+.box {
+  z-index: 10;
+  width: 100px;
+  height: 100px;
+  background: #62306d;
+  position: absolute;
+  margin: 0;
+}
+
+.a {
+  top: 50px;
+  left: 50px;
+}
+
+.b {
+  top: 50px;
+  right: 50px;
+}
+
+.c {
+  bottom: 50px;
+}
+
+body {
+  background: #62306d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}

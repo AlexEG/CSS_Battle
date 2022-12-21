@@ -1,0 +1,46 @@
+.a {
+  border-radius: 500px;
+  background: #fff1c1;
+}
+.one {
+  width: 200px;
+  height: 200px;
+  background: #fe5f55;
+  border-radius: 100px 100px 50px 50px;
+  bottom: 50px;
+  left: 100px;
+  overflow: hidden;
+}
+.d,
+.e {
+  width: 60px;
+  height: 60px;
+  bottom: 100px;
+}
+.d {
+  left: 120px;
+}
+.e {
+  right: 120px;
+}
+.f {
+  width: 40px;
+  height: 10px;
+  bottom: 70px;
+  left: 180px;
+}
+.b,
+.c {
+  width: 100px;
+  height: 100px;
+  margin-top: -50px;
+}
+.b {
+  left: 100px;
+}
+div {
+  position: absolute;
+}
+body {
+  background: #293462;
+}
